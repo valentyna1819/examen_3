@@ -1,4 +1,4 @@
-\# Aprendizajes del curso
+# Aprendizajes del curso
 
 
 
@@ -6,11 +6,11 @@ En este curso aprendí mucho mas sobre los aspectos de la computación, sobre el
 
 
 
-\## Lista de Temas
+## Lista de Temas
 
-* \[X] HTTML
-* \[X] GITHUB
-* \[X] OPERACIONES BINARIAS
+* [X] HTTML
+* [X] GITHUB
+* [X] OPERACIONES BINARIAS
 
 
 
@@ -20,7 +20,7 @@ TABLA DE VERDAD
 
 A | B | A AND B
 
-\--|---|--------
+--|---|--------
 
 V | V |   F
 
@@ -28,7 +28,6 @@ V | F |   F
 
 F | V |   V
 
+🪗 🐻
 
-
-:star
 
