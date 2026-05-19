@@ -26,4 +26,13 @@ F | V |   V
 
 🪗 🐻
 
+# Ejemplo en python 
+
+```python
+print("Esta es una prueba para el examen")
+if (x=16)
+  print("Acertaste")
+```
+
+  
 
